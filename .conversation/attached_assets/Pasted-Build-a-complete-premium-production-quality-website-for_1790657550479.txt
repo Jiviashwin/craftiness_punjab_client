@@ -1,0 +1,309 @@
+Build a complete, premium, production-quality website for CRAFTINESS by Tanvi G. Kalra — a bespoke packaging and design studio established in 2012.
+
+This is a design studio. The website itself must be a portfolio piece — it must feel handcrafted, tactile, editorial, and artisanal. A visitor should feel the same care in the website that the studio puts into its products. It must NOT look like a generic agency template, tech startup, or hobby craft blog.
+
+═══════════════════════════════════════════
+BRAND CONTEXT
+═══════════════════════════════════════════
+
+Name: CRAFTINESS
+Full name: CRAFTINESS by Tanvi G. Kalra
+Established: 2012
+Category: Packaging & Design Studio
+Services: Packaging & Design | Workshops | Bespoke Paperie | Gifts & Favors | Birth Announcements | Graphics
+Instagram: @craftiness94
+Followers: 30.8K
+
+IMPORTANT — DO NOT INVENT:
+- No phone number unless provided
+- No email unless provided
+- No physical address unless provided
+- No client names, testimonials, awards, or pricing
+- No years of experience beyond "Est. 2012"
+- No fake product names or catalogue items
+Use editable placeholders instead where information isn't available.
+
+═══════════════════════════════════════════
+VISUAL IDENTITY
+═══════════════════════════════════════════
+
+This must feel like a physical paper atelier translated to the web.
+
+Palette (warm, tactile, editorial):
+- Ivory / off-white: #F7F3EC (primary background)
+- Warm cream: #EFE7DA
+- Soft beige: #D9CBB6
+- Kraft paper tone: #C4A98A
+- Deep ink: #1C1A17 (primary text)
+- Warm charcoal: #3A3530
+- Muted terracotta accent: #B5654A
+- Subtle sage accent: #7A8471
+- Restrained gold: #A8834A
+
+DO NOT USE:
+- Bright pink, neon, purple
+- Tech blue gradients
+- Glassmorphism
+- Heavy drop shadows
+- Rounded pill buttons
+- Cartoon illustrations
+
+Typography:
+- Headings: a refined serif — "Cormorant Garamond" or "Fraunces" (Fraunces is preferred — it has a craft-editorial feel)
+- Body: "Inter" or "Manrope"
+- Accent/small caps labels: Inter with wide letter-spacing (0.15em)
+- Load via Google Fonts
+
+Texture:
+- Add a very subtle paper grain texture overlay (SVG noise or a repeating base64 texture) at 3–5% opacity across the whole page. This is critical — it makes the site feel tactile and physical, not digital.
+
+═══════════════════════════════════════════
+SITE STRUCTURE
+═══════════════════════════════════════════
+
+1. Navbar (sticky, transparent on hero, solid on scroll)
+2. Hero
+3. Trust strip (Est. 2012 · 30.8K community · Bespoke only)
+4. About the studio
+5. Services (the 7 core services)
+6. Studio Process (from idea to finished piece)
+7. Selected work / portfolio grid
+8. Workshops section
+9. Instagram hub
+10. Why Craftiness
+11. Testimonial-ready section (use editable placeholders, do NOT fabricate)
+12. Enquiry / Contact CTA
+13. Footer
+
+═══════════════════════════════════════════
+SECTION-BY-SECTION DETAIL
+═══════════════════════════════════════════
+
+NAVBAR:
+- Left: CRAFTINESS wordmark in serif, small "by Tanvi G. Kalra · Est. 2012" beneath
+- Center: COLLECTIONS · SERVICES · STUDIO · WORKSHOPS · JOURNAL · CONTACT
+- Right: "Start an enquiry" CTA button (outlined, not filled)
+- Transparent over hero, subtle ivory background with hairline border on scroll
+
+HERO:
+- Full-height (calc(100vh - navbar), max-height 880px)
+- Left 55%: Eyebrow, headline, subline, two CTAs
+  - Eyebrow: "PACKAGING & DESIGN STUDIO · EST. 2012"
+  - Headline (serif, huge): "Made by hand. Meant to be kept."
+  - Subline: "A bespoke paperie and design studio creating thoughtful packaging, invitations, and keepsakes for life's most meaningful moments."
+  - Primary CTA: "Explore the studio" (scrolls to About)
+  - Secondary CTA: "Start an enquiry"
+- Right 45%: a full-bleed editorial image — textured paper, wrapped gift, stationery flat-lay, or a calligraphed invitation. Warm tones. If no real image, use a warm editorial paper/stationery image from Unsplash.
+- Background tone: warm ivory (#F7F3EC) — NOT dark
+
+TRUST STRIP:
+- Three items in a row, separated by thin hairline dividers:
+  - "Est. 2012"
+  - "30.8K community on Instagram"
+  - "Bespoke, made to order"
+
+ABOUT:
+- Two-column layout
+- Left: large serif heading "A studio built on paper, patience and detail."
+- Right: 2–3 short paragraphs of elegant editorial copy about the studio's craft-focused philosophy. Do NOT invent facts — keep it about approach, not history.
+
+SERVICES:
+- 7 tiles in an asymmetrical editorial grid (not a uniform 3x3)
+- Each tile: minimal icon (Lucide), serif title, one-line description
+- Services:
+  1. Packaging & Design
+  2. Workshops
+  3. Bespoke Paperie
+  4. Gifts & Favors
+  5. Birth Announcements
+  6. Graphics
+  7. Custom commissions (soft addition — keep it open)
+- Hover: subtle paper-tone background shift + icon rotates slightly
+
+STUDIO PROCESS:
+- 4-step horizontal sequence:
+  01 THE CONVERSATION
+  02 THE SKETCH
+  03 THE CRAFT
+  04 THE KEEPSAKE
+- Each step: number, serif title, one-line description
+- Connected by a thin hand-drawn-feel SVG line
+
+SELECTED WORK:
+- Editorial image grid — 5–6 tiles, asymmetrical
+- Each tile: image + small serif caption
+- Use warm paper/stationery/wrapped-gift imagery if real work isn't available
+- Hover: image scales to 1.03 over 600ms
+
+WORKSHOPS:
+- Warm cream background band
+- Heading: "Learn the craft."
+- Short copy about workshops
+- CTA: "Enquire about workshops"
+
+INSTAGRAM HUB:
+- Heading: "Follow the studio"
+- @craftiness94 · 30.8K followers
+- 6-tile square gallery grid (use warm paper/stationery imagery placeholders if real posts aren't available)
+- CTA: "Follow @craftiness94" → https://www.instagram.com/craftiness94/
+
+WHY CRAFTINESS:
+- 4 quiet reasons in a grid:
+  1. Handcrafted, never mass-produced
+  2. Bespoke made-to-order
+  3. A studio, not a factory
+  4. Details that last
+- No exaggerated claims. No "No.1 in India." No superlatives.
+
+TESTIMONIALS:
+- Section present, but hidden by default with a code comment: "Populate when real testimonials are provided."
+- Do NOT fabricate testimonials.
+
+ENQUIRY / CONTACT:
+- Heading (serif): "Let's make something worth keeping."
+- Short copy inviting enquiries for packaging, invitations, gifts, and workshops
+- CTA button: "Start an enquiry" — opens a modal with fields: name, email, phone, occasion, message
+- Also link to Instagram DM as an alternative
+- If no email/phone are provided, use a form only and note in code comments where to add them
+
+FOOTER:
+- CRAFTINESS wordmark (serif)
+- "A studio by Tanvi G. Kalra · Est. 2012"
+- Links: Instagram · Enquiry
+- "© 2025 Craftiness"
+- Quiet, refined, generous whitespace
+
+═══════════════════════════════════════════
+ANIMATIONS — THE CORE "WOW" FACTOR
+═══════════════════════════════════════════
+
+The animations are what will make the client accept without negotiation. They must feel calm, tactile, and premium — like turning pages of a beautiful book, NOT like a tech demo.
+
+Philosophy: The user should FEEL the smoothness, not see the effects. Every motion should feel like paper, silk, or ink — organic, not mechanical.
+
+1. HERO ENTRANCE (on load, staggered):
+   - Eyebrow → headline → subline → CTA1 → CTA2
+   - Each: opacity 0 → 1, translateY 24px → 0, 800ms ease-out
+   - Stagger by 150ms
+   - Headline reveals line-by-line (not letter-by-letter)
+
+2. HERO IMAGE:
+   - Continuous slow drift: scale 1.0 → 1.05 → 1.0 over 22 seconds, infinite
+   - Subtle horizontal drift ±1%
+   - On scroll: parallax at 0.85x scroll speed (image moves slower than page)
+   - Container: position relative, overflow hidden
+
+3. PAPER GRAIN OVERLAY:
+   - Fixed full-page SVG noise overlay at 4% opacity
+   - Never animates — but gives the site a tactile, physical feel
+
+4. FLOATING PAPER ELEMENTS:
+   - 2–3 subtle SVG shapes (a paper corner, a wax seal outline, a folded card silhouette) floating gently in the hero and workshops section
+   - Opacity: 6–10%
+   - Slow float: translateY ±12px, rotate ±3deg over 12–16 seconds
+   - Different delays per element
+   - Hidden on mobile
+
+5. SCROLL REVEAL (sections):
+   - opacity 0 → 1, translateY 30px → 0, 800ms ease-out
+   - Trigger once per section via IntersectionObserver
+
+6. IMAGE REVEAL (curtain effect for portfolio tiles):
+   - clip-path: inset(0 0 100% 0) → inset(0 0 0% 0)
+   - 1100ms ease-out
+   - Combined with opacity 0 → 1
+   - Stagger tiles by 120ms
+
+7. TYPOGRAPHY REVEAL:
+   - Large serif headings reveal word-by-word (NOT letter-by-letter)
+   - Each word: opacity 0 → 1, translateY 14px → 0, 500ms
+   - Stagger 70ms
+
+8. HOVER MICRO-INTERACTIONS (desktop only):
+   - Service tiles: background shifts to warm cream over 300ms, icon rotates 3deg
+   - Portfolio images: scale 1.03 over 600ms ease-out
+   - Links: underline draws in from left over 300ms
+   - Buttons: subtle translateY(-2px) + soft shadow over 250ms
+   - CTA arrow icons: shift 4px right on hover
+
+9. NAVBAR:
+   - On scroll past 40px: background fades to ivory, hairline bottom border appears, height reduces slightly — smooth 300ms transition
+
+10. ENQUIRY MODAL:
+    - Backdrop: fade in 200ms
+    - Modal: scale 0.97 → 1.0, opacity 0 → 1, 250ms ease-out
+
+11. REDUCED MOTION:
+    - Wrap all animation in @media (prefers-reduced-motion: no-preference) OR add a reduce block that disables everything
+    - When reduce is on: keep opacity transitions only, no transforms
+
+═══════════════════════════════════════════
+TECHNICAL REQUIREMENTS
+═══════════════════════════════════════════
+
+Stack:
+- React + Vite
+- Tailwind CSS
+- React Router (if multiple pages needed)
+- Lucide React for icons
+- No heavy animation libraries (no GSAP, no Framer Motion, no Three.js)
+- Use only: CSS keyframes, CSS transitions, IntersectionObserver
+
+Architecture:
+- src/components/ — reusable components
+- src/pages/ — page components
+- src/data/ — a single business.js file with all business info centralized
+- src/assets/ — images
+
+Business data file (src/data/business.js):
+export const business = {
+  name: "Craftiness",
+  fullName: "CRAFTINESS by Tanvi G. Kalra",
+  tagline: "Packaging & Design Studio",
+  established: "2012",
+  category: "Packaging & Design Studio",
+  instagram: "craftiness94",
+  instagramUrl: "https://www.instagram.com/craftiness94/",
+  followers: "30.8K",
+  services: [...],
+  // phone, email, address intentionally left blank until provided
+};
+
+Performance:
+- Lazy-load images
+- Use WebP/AVIF where possible
+- GPU-friendly animations only (transform + opacity)
+- Cap animation runtime on mobile
+
+SEO:
+- Title: "Craftiness by Tanvi G. Kalra | Packaging & Design Studio, Est. 2012"
+- Meta description: "Craftiness is a bespoke packaging and design studio established in 2012 — creating handmade paperie, invitations, gifts, and workshops."
+- Semantic HTML (header, main, section, footer)
+- Open Graph tags
+
+Accessibility:
+- Semantic HTML
+- Keyboard-navigable modal
+- Visible focus states
+- Alt text on all images
+- Sufficient color contrast
+- Respect prefers-reduced-motion
+
+Responsive:
+- Test at 1440, 1280, 1024, 768, 430, 390, 375
+- No horizontal overflow
+- Mobile: hero stacks, tiles go single-column, floating elements hidden, hover disabled
+
+═══════════════════════════════════════════
+WHAT MUST BE TRUE WHEN DONE
+═══════════════════════════════════════════
+
+The site must:
+- Feel like a physical paper atelier, not a digital template
+- Load with a soft, staggered hero animation that immediately feels premium
+- Have visible but calm motion throughout (drift, float, reveal)
+- Use only real or placeholder content — never fabricated facts
+- Look expensive and handmade in equal measure
+- Make the client feel that this website is itself a piece of craft
+
+Confirm when complete, list every animation added, and list any place where a placeholder was used because real assets weren't available.

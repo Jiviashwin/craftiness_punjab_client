@@ -1,0 +1,31 @@
+export const business = {
+  name: "CRAFTINESS",
+  fullName: "CRAFTINESS by Tanvi G. Kalra",
+  tagline: "Packaging & Design Studio",
+  established: "2012",
+  category: "Packaging & Design Studio",
+  instagram: "@craftiness94",
+  instagramUrl: "https://www.instagram.com/craftiness94/",
+  followers: "30.8K",
+  services: [
+    { title: "Packaging & Design", description: "Considered forms and finishes for the things people open, hold and remember.", icon: "layers" },
+    { title: "Workshops", description: "Slow, hands-on sessions for learning the pleasure of making with paper.", icon: "scissors" },
+    { title: "Bespoke Paperie", description: "Paper goods with a point of view, made for the moment they belong to.", icon: "pen" },
+    { title: "Gifts & Favors", description: "Small gestures, wrapped with the kind of detail that makes them linger.", icon: "gift" },
+    { title: "Birth Announcements", description: "Tender announcements for a new chapter, shaped with care.", icon: "baby" },
+    { title: "Graphics", description: "A thoughtful visual language for the pieces that carry your story.", icon: "shapes" },
+    { title: "Custom commissions", description: "Have something in mind? Let’s begin with a conversation.", icon: "sparkles" },
+  ],
+  process: [
+    { number: "01", title: "The conversation", text: "We begin by listening for the feeling the finished piece should leave behind." },
+    { number: "02", title: "The sketch", text: "Ideas find their shape through thoughtful materials, forms and small details." },
+    { number: "03", title: "The craft", text: "Each element is made, tested and finished by hand, at an unhurried pace." },
+    { number: "04", title: "The keepsake", text: "The final piece arrives ready to be opened, held and kept." },
+  ],
+  reasons: [
+    { title: "Handcrafted, never mass-produced", text: "Every piece has room for the human touch." },
+    { title: "Bespoke made-to-order", text: "Nothing is pulled from a catalogue. It begins with your brief." },
+    { title: "A studio, not a factory", text: "Small-scale making leaves space for attention and conversation." },
+    { title: "Details that last", text: "Tactility is part of the design, not an afterthought." },
+  ],
+};

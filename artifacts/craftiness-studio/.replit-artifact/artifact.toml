@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "CRAFTINESS by Tanvi G. Kalra"
+description = "A handcrafted portfolio website for CRAFTINESS, a bespoke packaging and design studio established in 2012."
+version = "1.0.0"
+id = "artifacts/craftiness-studio"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 23288
+
+[services.development]
+run = "pnpm --filter @workspace/craftiness-studio run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/craftiness-studio", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/craftiness-studio/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "23288"
+BASE_PATH = "/"
