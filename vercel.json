@@ -3,7 +3,7 @@
   "framework": null,
   "installCommand": "pnpm install --frozen-lockfile",
   "buildCommand": "pnpm --filter @workspace/craftiness-studio run build",
-  "outputDirectory": "artifacts/craftiness-studio/dist/public",
+  "outputDirectory": "artifacts/craftiness-studio/dist",
   "build": {
     "env": {
       "PORT": "3000",
